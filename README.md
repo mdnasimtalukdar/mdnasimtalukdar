@@ -1,3 +1,4 @@
+![logo](https://github.com/mdnasimtalukdar/mdnasimtalukdar/blob/main/readme-image.gif)
 <h1 align="center">Hi 👋, I'm Md: Nasim Talukdar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
