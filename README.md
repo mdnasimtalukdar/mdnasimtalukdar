@@ -1,14 +1,13 @@
 
-![logo](https://github.com/mdnasimtalukdar/mdnasimtalukdar/blob/main/readme-image.gif)
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://github.com/mdnasimtalukdar/mdnasimtalukdar/blob/main/readme-image.gif" />
 <h1 align="center">Hi 👋, I'm Md : Nasim Talukdar </h1>
 <h3 align="center">I am a self-taught Frontend Developer</h3>
-
 <img align = "right" alt = "coding" width = "400" 
 src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnasimtalukdar&label=Profile%20views&color=0e75b6&style=flat" alt="mdnasimtalukdar" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdnasimtalukdar&theme=" alt="mdnasimtalukdar" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -38,22 +37,22 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnasimtalukdar&layout=compact&theme=highcontrast" alt=mdnasimtalukdar />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnasimtalukdar&layout=compact&theme=transparent" alt=mdnasimtalukdar />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mdnasimtalukdar&show_icons=true&locale=en&theme=highcontrast" alt="mdnasimtalukdar" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mdnasimtalukdar&show_icons=true&locale=en&theme=transparent" alt="mdnasimtalukdar" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnasimtalukdar&theme=highcontrast" alt="mdnasimtalukdar" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnasimtalukdar&theme=transparent" alt="mdnasimtalukdar" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/mdnasimtalukdar">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdnasimtalukdar&theme=codeSTACKr" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdnasimtalukdar&theme=codeSTACKr" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdnasimtalukdar&theme=codeSTACKr" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdnasimtalukdar&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdnasimtalukdar&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdnasimtalukdar&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdnasimtalukdar&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnasimtalukdar&theme=codeSTACKr" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnasimtalukdar&theme=transparent" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mdnasimtalukdar&theme=high-contrast"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mdnasimtalukdar&theme=react-dark"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
